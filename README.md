@@ -55,6 +55,12 @@ _Detalle completo de la receta_
 - Material-UI
 - Vite
 
+## Autor
+
+- Cardozo Peragallo Carlos Ignacio
+- carloscardozoperagallo@alu.frp.utn.edu.ar
+- GitHub: [@CardozoNacho](https://github.com/CardozoNacho)
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas contribuir, por favor crea un fork del repositorio y envía un pull request con tus cambios.
