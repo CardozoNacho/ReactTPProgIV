@@ -36,6 +36,18 @@ Este proyecto es una aplicación web desarrollada en React que permite a los usu
 - `src/pages`: Páginas principales de la aplicación.
 - `public`: Archivos estáticos como imágenes y el archivo `index.html`.
 
+## Screenshots
+
+![Listado de recetas](screenshots/Index.png)
+_Página principal_
+
+![Error 404](screenshots/RecetaNoEncontrada.png)
+_Error de receta no encontrada_
+
+![Detalle](screenshots/RecetasId.png)
+_Detalle completo de la receta_
+
+
 ## Tecnologías Utilizadas
 
 - React
