@@ -1,0 +1,154 @@
+[
+  {
+    "id": 1,
+    "titulo": "Pasta Carbonara",
+    "descripcion": "Receta clásica italiana de pasta con salsa cremosa de huevo y panceta",
+  "imagen": "https://images.pexels.com/photos/1438672/pexels-photo-1438672.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "tiempoPreparacion": "30 minutos",
+    "dificultad": "Media",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "400", "unidad": "g", "nombre": "Spaghetti" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Panceta o tocino" },
+      { "cantidad": "4", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Queso parmesano rallado" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Pimienta negra" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal" }
+    ],
+    "pasos": [
+      "Cocinar la pasta en agua hirviendo con sal hasta que esté al dente",
+      "Mientras tanto, cortar la panceta en cubos pequeños y dorarla en una sartén",
+      "Batir los huevos con el queso parmesano rallado y pimienta",
+      "Escurrir la pasta reservando un poco del agua de cocción",
+      "Mezclar la pasta caliente con la panceta fuera del fuego",
+      "Agregar la mezcla de huevo y queso, mezclando rápidamente",
+      "Si es necesario, agregar un poco del agua de cocción para crear una salsa cremosa",
+      "Servir inmediatamente con más queso parmesano y pimienta"
+    ],
+    "categoria": "Platos Principales",
+    "nation": "Italia"
+  },
+  {
+    "id": 2,
+    "titulo": "Ensalada César",
+    "descripcion": "Ensalada fresca con lechuga romana, crutones caseros y aderezo césar",
+  "imagen": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "tiempoPreparacion": "20 minutos",
+    "dificultad": "Fácil",
+    "porciones": 2,
+    "ingredientes": [
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Lechuga romana grande" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Pechuga de pollo" },
+      { "cantidad": "50", "unidad": "g", "nombre": "Queso parmesano" },
+      { "cantidad": "2", "unidad": "tazas", "nombre": "Crutones" },
+      { "cantidad": "4", "unidad": "cucharadas", "nombre": "Aderezo césar" }
+    ],
+    "pasos": [
+      "Lavar y secar la lechuga romana",
+      "Cortar la lechuga en trozos medianos",
+      "Cocinar la pechuga de pollo a la plancha y cortarla en tiras",
+      "En un bowl grande, mezclar la lechuga con el aderezo",
+      "Agregar el pollo, crutones y queso parmesano",
+      "Mezclar bien y servir inmediatamente"
+    ],
+    "categoria": "Ensaladas",
+    "nation": "Mexico"
+  },
+  {
+    "id": 3,
+    "titulo": "Pizza Margarita",
+    "descripcion": "Clásica pizza con salsa de tomate, mozzarella y albahaca fresca",
+  "imagen": "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "tiempoPreparacion": "45 minutos",
+    "dificultad": "Media",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "500", "unidad": "g", "nombre": "Harina" },
+      { "cantidad": "300", "unidad": "ml", "nombre": "Agua" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Mozzarella" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Salsa de tomate" },
+      { "cantidad": "10", "unidad": "hojas", "nombre": "Albahaca fresca" }
+    ],
+    "pasos": [
+      "Preparar la masa y dejar levar",
+      "Estirar la masa y colocar la salsa de tomate",
+      "Agregar mozzarella y hornear hasta dorar",
+      "Terminar con hojas de albahaca fresca y servir"
+    ],
+    "categoria": "Platos Principales",
+    "nation": "Italia"
+  },
+  {
+    "id": 4,
+    "titulo": "Tacos de Pollo",
+    "descripcion": "Tacos mexicanos con pollo sazonado y salsa fresca",
+  "imagen": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "tiempoPreparacion": "35 minutos",
+    "dificultad": "Fácil",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "500", "unidad": "g", "nombre": "Pechuga de pollo" },
+      { "cantidad": "8", "unidad": "unidades", "nombre": "Tortillas" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Tomate" },
+      { "cantidad": "1", "unidad": "puñado", "nombre": "Cilantro" }
+    ],
+    "pasos": [
+      "Sazonar y cocinar el pollo a la plancha",
+      "Picar la cebolla, tomate y cilantro para la salsa fresca",
+      "Calentar las tortillas y armar los tacos con pollo y salsa",
+      "Servir con limón al gusto"
+    ],
+    "categoria": "Street Food",
+    "nation": "Mexico"
+  },
+  {
+    "id": 5,
+    "titulo": "Gazpacho",
+    "descripcion": "Sopa fría de tomate, ideal para días calurosos por ser refrescante",
+  "imagen": "https://images.pexels.com/photos/3493579/pexels-photo-3493579.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "tiempoPreparacion": "15 minutos",
+    "dificultad": "Fácil",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "1", "unidad": "kg", "nombre": "Tomates maduros" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Pepino" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Pimiento" },
+      { "cantidad": "2", "unidad": "cucharadas", "nombre": "Vinagre" },
+      { "cantidad": "4", "unidad": "cucharadas", "nombre": "Aceite de oliva" }
+    ],
+    "pasos": [
+      "Triturar todos los vegetales y colar si se desea",
+      "Agregar vinagre y aceite de oliva, ajustar de sal",
+      "Refrigerar y servir bien frío"
+    ],
+    "categoria": "Entrantes",
+    "nation": "España"
+  },
+
+  {
+    "id": 6,
+    "titulo": "Brownies de Chocolate",
+    "descripcion": "Brownies húmedos y chocolatosos, perfectos para el postre",
+  "imagen": "https://images.pexels.com/photos/2067396/pexels-photo-2067396.jpeg?auto=compress&cs=tinysrgb&w=800",
+    "tiempoPreparacion": "40 minutos",
+    "dificultad": "Fácil",
+    "porciones": 8,
+    "ingredientes": [
+      { "cantidad": "200", "unidad": "g", "nombre": "Chocolate negro" },
+      { "cantidad": "150", "unidad": "g", "nombre": "Mantequilla" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Azúcar" },
+      { "cantidad": "3", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Harina" }
+    ],
+    "pasos": [
+      "Derretir el chocolate con la mantequilla",
+      "Mezclar con el azúcar y los huevos",
+      "Agregar la harina y hornear a 180°C durante 20-25 minutos",
+      "Dejar enfriar y cortar en porciones"
+    ],
+    "categoria": "Postres",
+    "nation": "Estadounidense"
+  }
+  
+]
